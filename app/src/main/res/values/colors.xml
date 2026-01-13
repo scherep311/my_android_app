@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textBlack">#FF000000</color>
+
+    <color name="primaryBlue">#223BAB</color>
+    <color name="primaryOrange">#EB9317</color>
+
+    <color name="iconGrey">#9FA0A2</color>
+    <color name="backgroundApp">#E9EAEE</color>
+    <color name="cardWhite">#FFFFFF</color>
+
+
+    <color name="textGrey">#808080</color>
+</resources>

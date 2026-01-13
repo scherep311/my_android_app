@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Drive_school" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="fontFamily">@font/montserrat</item>
+        <item name="textAppearanceBody1">@style/TextAppBody</item>
+        <item name="textAppearanceBody2">@style/TextAppBody</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppSubtitle</item>
+        <item name="textAppearanceHeadline6">@style/TextAppTitle</item>
+        <item name="textAppearanceButton">@style/TextAppButton</item>
+
+    </style>
+</resources>
